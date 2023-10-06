@@ -1,9 +1,7 @@
-Name: Colin Ekedigwe, Student number: 20403046 & Name: Gideon Amaechi, Student number: 20364806
-
-Welcome to the manual page of our 'Phonebook Application' 
+Welcome to the manual page of my 'Phonebook Application' 
 
 ------DESCRIPTION------
-This inner shell is written in Java programming language. This is the user manual in which will guide you on how to use this shell correctly.
+This inner shell is written in Java programming language. This is the user manual which will guide you on how to use this shell correctly.
 When the shell program starts you are greeted and introduced into the shell before you proceed using the shell program.
 
 ------SYNOPSIS------
