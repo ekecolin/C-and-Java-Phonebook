@@ -1,5 +1,3 @@
-#Name: Colin Ekedigwe, Student number: 20403046 & Name: Gideon Amaechi, Student number: 20364806
-
 echo "\n---------------Welcome to the CA341 Phonebook App!---------------"
 echo '\nPress any [key] to continue\n'
 while [ true ] ; do
@@ -37,7 +35,3 @@ else
 echo " "
 fi
 done
-
-#Author: Colin Ekedigwe - Student Number: 20403046 - I am aware of the Universities regards to breaches of academic
-#integrity and plagiarism as serious. Any assistance I have gotten by using code to help me has been referenced and
-#stated with links. I am writing this to acknowledge that a breach of the rules may result in penalties being imposed.
