@@ -306,7 +306,3 @@ public class oo {
         } while (ch1==1);
     }
 }
-
-/*Gideon Amaechi - Student Number: 20364806 - I am aware of the Universities regards to breaches of academic
-integrity and plagiarism as serious. Any assistance I have gotten by using code to help me has been referenced and
-stated with links. I am writing this to acknowledge that a breach of the rules may result in penalties being imposed.*/
