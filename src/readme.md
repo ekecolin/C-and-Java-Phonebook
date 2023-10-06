@@ -1,9 +1,7 @@
-Name: Colin Ekedigwe, Student number: 20403046 & Name: Gideon Amaechi, Student number: 20364806
-
-Welcome to the manual page of our 'Phonebook Application' 
+Welcome to the manual page of my 'Phonebook Application' 
 
 ------DESCRIPTION------
-This inner shell is written in C programming language. This is the user manual in which will guide you on how to use this shell correctly.
+This inner shell is written in C programming language. This is the user manual which will guide you on how to use this shell correctly.
 When the shell program starts you are greeted and introduced into the shell before you proceed using the shell program.
 
 ------SYNOPSIS------
@@ -28,5 +26,3 @@ When the shell program starts you are greeted and introduced into the shell befo
 3. Type '1'
 4. This program will now run and you will be greeted with an introduction before the menu options appear
 5. To use any of the options type the number beside the task you would like to do
-
-#Author: Colin Ekedigwe - Student Number: 20403046 & Gideon Amaechi - Student Number: 20364806 - I am aware of the Universities regards to breaches of academic integrity and plagiarism as serious. Any assistance I have gotten by using code to help me has been referenced and stated with links. I am writing this to acknowledge that a breach of the rules may result in penalties being imposed.
