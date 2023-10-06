@@ -1,4 +1,3 @@
-/*Name: Colin Ekedigwe, Student number: 20403046 & Name: Gideon Amaechi, Student number: 20364806*/
 /*https://www.youtube.com/watch?v=eVqfNODGT1E&list=PLRJUuMNQoQ9j4Px-gxsrpai1IbwJprVhC&index=4&t=25*/
 /*https://www.daniweb.com/programming/software-development/threads/482239/binary-tree-search-phone-book*/
 /*https://malikprogrammers.com/2021/08/23/simple-mini-project-phonebook-in-c/*/
@@ -233,7 +232,3 @@ int main(){ /*Interface of the program, I got this from one of my previous proje
     goto menu;
 return 0;
 }
-
-/*Author: Colin Ekedigwe - Student Number: 20403046 - I am aware of the Universities regards to breaches of academic
-integrity and plagiarism as serious. Any assistance I have gotten by using code to help me has been referenced and
-stated with links. I am writing this to acknowledge that a breach of the rules may result in penalties being imposed.*/
